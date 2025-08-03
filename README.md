@@ -29,7 +29,7 @@ The result is returned in JSON format containing the calculated features.
 {
   "TOTAL_AMOUNT": 87.99,
   "CPF_RATING": 0.0,
-  "CC_SCORE": 4.0
+  "CC_SCORE": 3.0
 }
 ```
 
@@ -64,3 +64,4 @@ The result is returned in JSON format containing the calculated features.
 3. The service processes a sample JSON transaction in the `main` method and prints the calculated features.
 4. Run tests with `./gradlew test`.
 ---
+
